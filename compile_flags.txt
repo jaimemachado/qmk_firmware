@@ -1,0 +1,15 @@
+-std=c++11
+-Wall
+-Wextra
+-Werror
+-I/usr/include
+-I/usr/local/include
+-I.
+-I./
+-I./quantum/
+-I./tmk_core/common/
+-I./quantum/audio/
+-I./quantum/process_keycode/
+-I./drivers/avr/
+-I./lib/chibios/
+-I./lib/lufa/
